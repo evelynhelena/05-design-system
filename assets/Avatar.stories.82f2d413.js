@@ -1,0 +1,2 @@
+import{A as t}from"./index.62855fef.js";import"./index.bd18f49d.js";import"./iframe.4fca17dc.js";import"./extends.bd401154.js";import"./index.47a2e00e.js";import"./jsx-runtime.b53b7754.js";const p={title:"Data dispplay/Avatar",component:t,args:{src:"https://github.com/evelynhelena.png",alt:"Evelyn Helena"},argTypes:{src:{control:{type:"text"}}}},l={},n={args:{src:void 0}},c=["Primary","WithFallback"];export{l as Primary,n as WithFallback,c as __namedExportsOrder,p as default};
+//# sourceMappingURL=Avatar.stories.82f2d413.js.map

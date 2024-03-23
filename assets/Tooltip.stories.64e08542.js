@@ -1,0 +1,2 @@
+import{e as t}from"./index.62855fef.js";import"./index.bd18f49d.js";import"./iframe.4fca17dc.js";import"./extends.bd401154.js";import"./index.47a2e00e.js";import"./jsx-runtime.b53b7754.js";const m={title:"FORM/Tooltip",component:t,args:{text:"26 de Outubro - Dispon\xEDvel"},argTypes:{src:{control:{type:"text"}}}},a={},n=["Primary"];export{a as Primary,n as __namedExportsOrder,m as default};
+//# sourceMappingURL=Tooltip.stories.64e08542.js.map
