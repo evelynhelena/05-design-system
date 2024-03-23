@@ -5,9 +5,31 @@ export const Text = styled('p', {
   fontFamily: '$default',
   lineHeight: '$base',
   margin: 0,
-  color: '$gray100',
 
   variants: {
+    fontWeight: {
+      regular: {fontWeight: '$regular'},
+      medium: {fontWeight: '$medium'},
+      bold: {fontWeight: '$bold'},
+    },
+    color: {
+      white: {color:'$white'},
+      black: {color:'$black'},
+    
+      gray100: {color:'$gray100'},
+      gray200: {color:'$gray200'},
+      gray400: {color:'$gray400'},
+      gray500: {color:'$gray500'},
+      gray600: {color:'$gray600'},
+      gray700: {color:'$gray700'},
+      gray800: {color:'$gray800'},
+      gray900: {color:'$gray900'},
+    
+      ignite300: {color:'$ignite300'},
+      ignite500: {color:'$ignite500'},
+      ignite700: {color:'$ignite700'},
+      ignite900: {color:'$ignite900'},
+    },
     size: {
       xxs: { fontSize: '$xxs' },
       xs: { fontSize: '$xs' },
@@ -27,6 +49,8 @@ export const Text = styled('p', {
 
   defaultVariants: {
     size: 'md',
+    color:'gray100',
+    fontWeight: 'normal',
   },
 })
 
